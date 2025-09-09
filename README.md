@@ -75,7 +75,7 @@ Zixing-Server-Litematica-Backup/
 ---
 ## 特别鸣谢
 * 在服务器内游玩的所有玩家
-* <img width="1920" height="1009" alt="2025-09-09_11 29 36" src="https://github.com/user-attachments/assets/4707f5f9-502e-479b-9881-8abe24a61ff9" />
+ <img width="1920" height="1009" alt="players" src=players.png />
 
 * 以及**为mc提供源源不断的建筑的以及各种生电机器的大佬**们
 * mc的各种mod的制作者们
