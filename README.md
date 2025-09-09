@@ -74,10 +74,10 @@ Zixing-Server-Litematica-Backup/
 
 ---
 ## 特别鸣谢
-在服务器内游玩的所有玩家
-以及**为mc提供源源不断的建筑的以及各种生电机器的大佬**们
-mc的各种mod的制作者们
-Minecraft官方
+* 在服务器内游玩的所有玩家
+* 以及**为mc提供源源不断的建筑的以及各种生电机器的大佬**们
+* mc的各种mod的制作者们
+* Minecraft官方
 **Happy Building! 🎮**
 
 **Ciallo～(∠・ω< )⌒☆**
