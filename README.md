@@ -2,7 +2,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.6-00AA00?style=for-the-badge&logo=minecraft) ![Status](https://img.shields.io/badge/项目状态-活跃备份中-success?style=for-the-badge)
 
-这是一个用于备份 **Zixing Server**（自星服务器）Minecraft 服务器投影（Litematica）文件的官方仓库。
+这是一个用于备份 **Zixing Server**（紫星服务器）Minecraft 服务器投影（Litematica）文件的官方仓库。
 
 ## 📖 关于本仓库
 
@@ -78,6 +78,8 @@ Zixing-Server-Litematica-Backup/
 * 以及**为mc提供源源不断的建筑的以及各种生电机器的大佬**们
 * mc的各种mod的制作者们
 * Minecraft官方
-**Happy Building! 🎮**
+
+
+## **Happy Building! 🎮**
 
 **Ciallo～(∠・ω< )⌒☆**
